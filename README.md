@@ -12,4 +12,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandisnewton&show_icons=true&locale=en&layout=compact" alt="fernandisnewton" /> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandisnewton&" alt="fernandisnewton" />
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
