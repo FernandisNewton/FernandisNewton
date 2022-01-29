@@ -12,5 +12,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandisnewton&show_icons=true&locale=en&layout=compact" alt="fernandisnewton" /> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandisnewton&" alt="fernandisnewton" />
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
  
