@@ -14,8 +14,8 @@
 
  <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandisnewton&" alt="fernandisnewton" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandisNewton)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
  
+
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
