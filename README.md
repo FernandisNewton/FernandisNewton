@@ -12,9 +12,9 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandisnewton&show_icons=true&locale=en&layout=compact" alt="fernandisnewton" /> -->
 
- <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandisnewton&" alt="fernandisnewton" />
+ <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandisnewton&" alt="fernandisnewton" />
 
  
 <h3 align="left">Here is a small joke for you:</h3>
 
-<img width="50%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img width="40%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
