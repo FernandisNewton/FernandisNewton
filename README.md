@@ -15,7 +15,5 @@
  <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandisnewton&" alt="fernandisnewton" />
 
  
-
-
-
+<h3 align="left">Here is a small joke for you:</h3>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
