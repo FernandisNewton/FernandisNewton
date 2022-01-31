@@ -17,4 +17,4 @@
  
 <h3 align="left">Here is a small joke for you:</h3>
 
-<img width="45%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img width="47%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
